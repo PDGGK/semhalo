@@ -75,3 +75,11 @@ a path-kernel form) exists; the interesting work is still ahead:
    on end-to-end SQL accuracy, not just retrieval recall.
 
 Feedback and pointers welcome.
+
+## Authorship & status
+
+© 2026 Zihan Dai. This repository documents original, ongoing research on
+edge-path re-ranking for schema linking, first published here on 6 July 2026,
+and now continued as a supervised research project at the University of
+Melbourne. **All rights reserved** — this is not open-source software. If you
+wish to build on this work, please get in touch: dai.z1@student.unimelb.edu.au
